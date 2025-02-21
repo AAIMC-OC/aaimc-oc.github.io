@@ -1,0 +1,20 @@
+title: AAIMC-OC Consortium
+description: Artificial Intelligence and Molecular Classification of Ovarian Cancer Consortium
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - about.md
+  - members.md
+  - research.md
+  - contact.md
+
+# Social links (optional)
+# twitter_username: username
+# github_username:  username
+# linkedin_username: username
+
+# Build settings
+markdown: kramdown 
