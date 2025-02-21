@@ -14,7 +14,5 @@ To develop and implement innovative AI-driven approaches for better understandin
 
 - AI-driven molecular classification
 - Digital pathology
-- Clinical data science
 - Ovarian cancer biology
-- International clinical trials
 - Translational research 
