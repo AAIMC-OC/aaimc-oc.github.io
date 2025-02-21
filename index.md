@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to AAIMC-OC
 
-The Artificial Intelligence and Molecular Classification of Ovarian Cancer (AAIMC-OC) consortium is an international collaboration dedicated to advancing ovarian cancer research through AI-driven molecular classification.
+Application of AI defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) consortium is an international collaboration dedicated to advancing ovarian cancer research through AI-driven molecular classification.
 
 ## Latest Updates
 
