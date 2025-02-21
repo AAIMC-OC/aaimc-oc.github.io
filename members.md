@@ -16,10 +16,9 @@ permalink: /members/
   - Netherlands Cancer Institute
   - AI for Oncology Lead
 
-### AI researchers
 - **Ajey Pai Karkala**
   - Netherlands Cancer Institute
-  - Phd Candidate
+  - Phd Candidate @ AI for Oncology
 
 ### Clinical Data Science
 - **Prof. Andre Dekker**
@@ -27,6 +26,11 @@ permalink: /members/
   - Clinical Data Science Lead
 
 ## Academic Partners
+
+### Netherlands Cancer Institute
+- **Dr. Hugo Horlings**
+  - Netherlands Cancer Institute
+  - Computational Pathology Lead
 
 ### University of Birmingham
 - **Prof. Andrew Beggs**
