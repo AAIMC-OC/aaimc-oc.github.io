@@ -125,47 +125,17 @@ a:hover {
   z-index: 1;
 }
 
-/* Logo containment */
-.logo-wrapper {
-  flex: 0 0 auto;
-  width: 50px;
-  height: 50px;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.logo-container {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.site-logo {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  display: block;
-  max-width: 100%;
-  max-height: 100%;
-}
-
 /* Banner layout */
 .banner-left {
   display: flex;
   align-items: center;
   gap: 1em;
-  height: 50px; /* Match logo height */
+  height: 50px;
 }
 
 .title-container {
   flex: 1;
-  min-width: 0; /* Prevent text overflow */
+  min-width: 0;
 }
 
 .site-title {
@@ -212,15 +182,6 @@ a:hover {
     flex-direction: column;
     text-align: center;
     padding: 1em;
-  }
-  
-  .logo-wrapper {
-    width: 40px;
-    height: 40px;
-  }
-  
-  .banner-left {
-    height: auto;
   }
   
   .site-nav {
@@ -292,12 +253,6 @@ a:hover {
   display: none;
 }
 
-/* Ensure logo only appears in header */
-.page-content .logo-wrapper,
-.page-content .logo-container {
-  display: none;
-}
-
 /* Page content styling */
 .post {
   margin-bottom: 3em;
@@ -321,20 +276,11 @@ a:hover {
   p {
     margin-bottom: 1em;
   }
-
-  /* Hide any duplicate logos in content */
-  .logo-wrapper,
-  .logo-container {
-    display: none;
-  }
 }
 
 /* Remove any duplicate titles or logos from content */
 .post-content {
-  .site-title,
-  .logo-wrapper,
-  .logo-container,
-  > h1:first-child {
+  .site-title {
     display: none;
   }
 }
