@@ -7,7 +7,7 @@ The Application of AI-defined Molecular Classifications in Ovarian Cancer (AAIMC
 
 ## Our Mission
 
-Our overarching goal is to develop ways to apply AI-defined molecular classifications globally
+Our overarching mission is to develop ways to apply AI-defined molecular classifications globally
 
 ## Research Focus Areas
 
