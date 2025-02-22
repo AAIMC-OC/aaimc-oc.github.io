@@ -28,6 +28,7 @@ permalink: /members/
 - Medical Data Works (MDW) & University of Maastricht
 - Clinical Data Science Lead
 
+<br> 
 
 ## Early Academic Partners (By Site)
 
@@ -90,6 +91,7 @@ permalink: /members/
 **Prof. Richard Edmondson**
 - Professor of Gynaeoncology
 
+<br> 
 
 ## Additional Academic Partners (Post-Award)
 
@@ -109,12 +111,14 @@ permalink: /members/
 - **Dr Thomas (Tom) Mills**, lecturer of Chemical Engineering
 - **Mr Rhys Coldrick and Mr Maninder Dayal**, coordinators of the Makers' Space at UoB
 - **Mr Jesse Eugene-Oseyomon**, BSc Candidate
-  
+
+<br> 
+
 ## Other supporters
 
-**Johan van Soest** from Medical Data Works (MDW)
-**Dr. Faiza Gaba** from GO-SOAR
-**Dr Allan Njau and Dr Jonathan Wawire** from Aga Khan University in Kenya
+- **Johan van Soest** from Medical Data Works (MDW)
+- **Dr. Faiza Gaba** from GO-SOAR
+- **Dr Allan Njau and Dr Jonathan Wawire** from Aga Khan University in Kenya
 
 
 
