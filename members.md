@@ -23,6 +23,7 @@ permalink: /members/
 - PhD Candidate @ AI for Oncology
 
 ### Data Science and Federated Learning
+
 **Prof. Andre Dekker**
 - Medical Data Works (MDW) & University of Maastricht
 - Clinical Data Science Lead
@@ -91,5 +92,29 @@ permalink: /members/
 
 
 ## Additional Academic Partners (Post-Award)
+
+### All India Institute Of Medical Sciences, New Delhim India (AIIMS, via KolGoTrg)
+
+**Dr/Prof. Seema Singhal**
+- Gynaecologic Oncologist, Additional Professor, AIIMS
+ 
+**Dr Aarthi Jayraj**
+- Senior Gynaeoncology Fellow
+
+### OpenFlexure
+- **Dr Richard Bowman, Dr Joe Knapper** at the University of Glasgow
+- **Professor William Wadsworth** at the University of Bath
+
+### University of Birmingham Engineers
+- **Dr Thomas (Tom) Mills**, lecturer of Chemical Engineering
+- **Mr Rhys Coldrick and Mr Maninder Dayal**, coordinators of the Makers' Space at UoB
+- **Mr Jesse Eugene-Oseyomon**, BSc Candidate
+  
+## Other supporters
+
+**Johan van Soest** from Medical Data Works (MDW)
+**Dr. Faiza Gaba** from GO-SOAR
+**Dr Allan Njau and Dr Jonathan Wawire** from Aga Khan University in Kenya
+
 
 
