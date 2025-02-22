@@ -27,7 +27,8 @@ permalink: /members/
 - Medical Data Works (MDW) & University of Maastricht
 - Clinical Data Science Lead
 
-## Early Academic Partners 
+
+## Early Academic Partners (By Site)
 
 ### University of Birmingham
 
@@ -88,5 +89,7 @@ permalink: /members/
 **Prof. Richard Edmondson**
 - Professor of Gynaeoncology
 
-  
+
+## Additional Academic Partners (Post-Award)
+
 
