@@ -4,43 +4,44 @@ title: Members
 permalink: /members/
 ---
 
-<div class="member-section">
-  <h2>Leadership Team</h2>
+## Leadership Team
 
-  <div class="member-info">
-    <h3>Project Coordination</h3>
-    <strong>Dr. Elaine Leung</strong>
-    <ul>
-      <li>Project Lead</li>
-      <li>University of Birmingham</li>
-    </ul>
-  </div>
+### Project Coordination
 
-  <div class="member-info">
-    <h3>AI Leadership</h3>
-    <strong>Dr. Jonas Teuwen</strong>
-    <ul>
-      <li>AI for Oncology Lead</li>
-      <li>Netherlands Cancer Institute</li>
-    </ul>
-  </div>
+<div class="member-info">
+  <h3>Dr. Elaine Leung</h3>
+  <ul>
+    <li>Project Lead</li>
+    <li>University of Birmingham</li>
+  </ul>
+</div>
 
-  <div class="member-info">
-    <strong>Ajey Pai Karkala</strong>
-    <ul>
-      <li>PhD Candidate @ AI for Oncology</li>
-      <li>Netherlands Cancer Institute</li>
-    </ul>
-  </div>
+### AI Leadership
 
-  <div class="member-info">
-    <h3>Data Science and Federated Learning</h3>
-    <strong>Prof. Andre Dekker</strong>
-    <ul>
-      <li>Clinical Data Science Lead</li>
-      <li>Medical Data Works (MDW) & University of Maastricht</li>
-    </ul>
-  </div>
+<div class="member-info">
+  <h3>Dr. Jonas Teuwen</h3>
+  <ul>
+    <li>AI for Oncology Lead</li>
+    <li>Netherlands Cancer Institute</li>
+  </ul>
+</div>
+
+<div class="member-info">
+  <strong>Ajey Pai Karkala</strong>
+  <ul>
+    <li>PhD Candidate @ AI for Oncology</li>
+    <li>Netherlands Cancer Institute</li>
+  </ul>
+</div>
+
+### Data Science and Federated Learning
+
+<div class="member-info">
+  <h3>Prof. Andre Dekker</h3>
+  <ul>
+    <li>Clinical Data Science Lead</li>
+    <li>Medical Data Works (MDW) & University of Maastricht</li>
+  </ul>
 </div>
 
 <div class="member-section">

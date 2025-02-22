@@ -280,4 +280,63 @@ a:hover {
 /* Ensure logo only appears in header */
 .page-content .logo-container {
   display: none;
+}
+
+/* Page content styling */
+.post {
+  margin-bottom: 3em;
+}
+
+.post-content {
+  h2 {
+    margin-top: 2em;
+    color: var(--text-color);
+  }
+
+  h3 {
+    margin-top: 1.5em;
+    color: var(--text-color);
+  }
+
+  ul, ol {
+    margin-bottom: 1.5em;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+}
+
+/* Remove any duplicate titles or logos from content */
+.post-content {
+  .site-title,
+  .logo-container,
+  .banner-left,
+  > h1:first-child {
+    display: none;
+  }
+}
+
+/* Consistent spacing for sections */
+.section + .section {
+  margin-top: 2em;
+}
+
+/* Member cards specific styling */
+.member-section {
+  margin-top: 2em;
+}
+
+/* Research page specific styling */
+.research-image {
+  max-width: 100%;
+  margin: 2em 0;
+}
+
+/* Contact page specific styling */
+.contact-info {
+  margin: 2em 0;
+  padding: 1.5em;
+  background: var(--background-light);
+  border-radius: 4px;
 } 
