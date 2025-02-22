@@ -72,10 +72,15 @@ a:hover {
   position: relative;
 }
 
-.site-logo {
+.header-left {
   float: left;
+  display: flex;
+  align-items: center;
+}
+
+.site-logo {
   height: calc(var(--header-height) - 20px);
-  margin: 10px 20px 10px 0; /* Changed left margin to right */
+  margin: 10px 20px 10px 0;
   
   img {
     height: 100%;
@@ -84,13 +89,9 @@ a:hover {
 }
 
 .site-title {
-  float: left;
-  display: inline-block;
   color: white;
   font-size: 24px;
-  line-height: var(--header-height);
   margin: 0;
-  padding: 0;
 }
 
 .site-nav {

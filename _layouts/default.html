@@ -7,11 +7,12 @@
 
     <header class="site-header">
       <div class="wrapper">
-        <a class="site-logo" href="{{ "/" | relative_url }}">
-          <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="{{ site.title }}" height="40">
-        </a>
-        
-        <span class="site-title">AAIMC-OC Consortium</span>
+        <div class="header-left">
+          <a class="site-logo" href="{{ "/" | relative_url }}">
+            <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="{{ site.title }}" height="40">
+          </a>
+          <span class="site-title">AAIMC-OC Consortium</span>
+        </div>
 
         <nav class="site-nav">
           {%- for path in site.header_pages -%}
