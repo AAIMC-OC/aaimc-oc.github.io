@@ -67,8 +67,8 @@ a:hover {
 .site-header {
   border-top: 5px solid var(--header-teal);
   border-bottom: 1px solid #e8e8e8;
-  min-height: var(--header-height);
-  background-color: var(--header-teal) !important; /* Force override */
+  min-height: 150px; /* Increased to match logo height */
+  background-color: var(--header-teal) !important;
   position: relative;
 }
 
@@ -76,27 +76,30 @@ a:hover {
   float: left;
   display: flex;
   align-items: center;
+  height: 150px; /* Match header height */
 }
 
 .site-logo {
-  height: calc(var(--header-height) - 20px);
-  margin: 10px 20px 10px 0;
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
   
   img {
-    height: 100%;
-    width: auto;
+    height: 150px;
+    width: 150px;
   }
 }
 
 .site-title {
   color: white;
-  font-size: 24px;
+  font-size: 28px;
   margin: 0;
+  white-space: nowrap;
 }
 
 .site-nav {
   float: right;
-  line-height: var(--header-height);
+  line-height: 150px; /* Match header height */
   
   .page-link {
     color: white;
