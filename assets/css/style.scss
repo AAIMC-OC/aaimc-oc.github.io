@@ -124,26 +124,28 @@ a:hover {
 .banner-left {
   display: flex;
   align-items: center;
-  gap: 0.8em; /* Reduce space between logo and title */
+  gap: 0.8em;
+  flex-shrink: 0; /* Prevent shrinking */
 }
 
-/* Logo styling */
+/* Logo styling - with !important to override any other styles */
 .site-logo {
-  width: 40px; /* Smaller logo */
-  height: auto;
+  width: 40px !important;
+  height: 40px !important;
+  max-width: 40px !important;
+  max-height: 40px !important;
   object-fit: contain;
   display: inline-block;
   vertical-align: middle;
+  margin-right: 10px;
 }
 
-/* Title styling */
+/* Title next to logo */
 .site-title {
-  color: var(--primary-color); /* Teal color */
+  white-space: nowrap; /* Prevent wrapping */
+  color: var(--primary-color);
   font-size: 1.4em;
   font-weight: 600;
-  text-decoration: none;
-  margin: 0;
-  padding: 0;
 }
 
 /* Navigation styling */
