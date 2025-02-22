@@ -120,32 +120,39 @@ a:hover {
   margin: 0 auto;
 }
 
-/* Logo and title container */
+/* Logo and header layout */
 .banner-left {
   display: flex;
   align-items: center;
-  gap: 0.8em;
-  flex-shrink: 0; /* Prevent shrinking */
+  gap: 0.5em;
 }
 
-/* Logo styling - with !important to override any other styles */
+.logo-container {
+  flex: 0 0 auto;
+  width: 35px; /* Fixed width container */
+  height: 35px; /* Fixed height container */
+}
+
 .site-logo {
-  width: 40px !important;
-  height: 40px !important;
-  max-width: 40px !important;
-  max-height: 40px !important;
+  width: 100%;
+  height: 100%;
   object-fit: contain;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 10px;
+  display: block;
 }
 
-/* Title next to logo */
+.title-container {
+  flex: 1;
+}
+
 .site-title {
-  white-space: nowrap; /* Prevent wrapping */
-  color: var(--primary-color);
-  font-size: 1.4em;
-  font-weight: 600;
+  display: inline-block;
+  color: var(--text-color);
+  font-size: 1.2em;
+  font-weight: 500;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
 }
 
 /* Navigation styling */
