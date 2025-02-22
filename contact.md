@@ -6,7 +6,7 @@ permalink: /contact/
 
 For more information about the AAIMC-OC consortium, please contact:
 
-**Project Coordinator**  
+**Project Lead/Coordinator**  
 Dr. Elaine Leung  
 University of Birmingham  
 [AAIMC_OC@contacts.bham.ac.uk]
