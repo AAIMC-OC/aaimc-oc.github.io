@@ -7,9 +7,13 @@ The Application of AI-defined Molecular Classifications in Ovarian Cancer (AAIMC
 
 We aim to develop and, more importantly, **implement** new ways to evaluate ovarian cancer molecular characteristics using artificial intelligence to support clinicians making treatment decisions globally.
 
+<br>
+
 ## Our Mission
 
 Our mission is to develop ways to apply AI-defined molecular classifications globally
+
+<br>
 
 ## Research Focus Areas
 
@@ -18,6 +22,8 @@ Our mission is to develop ways to apply AI-defined molecular classifications glo
 - Digital pathology implementation in different resource settings
 - Ovarian cancer biology
 - Translational cancer research
+
+<br>
 
 ## Current Research Funding
 
