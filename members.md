@@ -154,7 +154,7 @@ permalink: /members/
   <h2>Additional Academic Partners (Post-Award)</h2>
 
   <div class="member-info">
-    <h3>All India Institute Of Medical Sciences, New Delhim, India (AIIMS, via KolGoTrg)</h3>
+    <h3>All India Institute Of Medical Sciences, New Delhm, India (AIIMS, via KolGoTrg)</h3>
     <strong>Dr/Prof. Seema Singhal</strong>
     <ul>
       <li>Gynaecologic Oncologist, Additional Professor, AIIMS</li>
