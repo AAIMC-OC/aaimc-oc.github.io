@@ -4,7 +4,7 @@
 :root {
   --primary-color: #009B9B;  /* Teal main color */
   --primary-dark: #008383;   /* Darker teal for hover states */
-  --primary-light: #E6F3F3;  /* Light teal for backgrounds */
+  --primary-light: #b6f8f8;  /* Light teal for backgrounds */
   --text-color: #333333;     /* Dark gray for main text */
   --text-light: #666666;     /* Lighter gray for secondary text */
   --border-color: #E5E5E5;   /* Light gray for borders */
@@ -109,31 +109,54 @@ a:hover {
 
 /* Header and banner styling */
 .main-banner {
-  background: white;
-  padding: 1em 2em;
+  background: var(--white);
+  padding: 1.5em 2em;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--border-color);
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .banner-left {
   display: flex;
   align-items: center;
-  gap: 1em;
+  gap: 2em;
 }
 
+/* Logo styling */
 .site-logo {
-  width: 30px;
-  height: 30px;
+  width: 120px;  /* Increased from 30px to match OC3 size */
+  height: auto;  /* Allow height to scale proportionally */
   object-fit: contain;
-  display: inline-block;
-  vertical-align: middle;
+  display: block;
+  margin: 0;
 }
 
+/* Title styling */
+.site-title {
+  font-size: 1.6em;
+  color: var(--text-color);
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Navigation styling */
 .site-nav {
-  float: right;
-  background: none;
+  margin-left: auto;
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+  margin-left: 2em;
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover {
+  color: var(--primary-color);
 }
 
 /* Make the navigation horizontal */
