@@ -6,7 +6,9 @@ permalink: /contact/
 
 ## Further information
 
-For further information about the AAIMC-OC Consortium, please contact us at AAIMC_OC@contacts.bham.ac.uk
+For further information about the AAIMC-OC Consortium, please contact us at [AAIMC_OC@contacts.bham.ac.uk]
+
+<br>
 
 ## Join Us
 
