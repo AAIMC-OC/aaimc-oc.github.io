@@ -3,11 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-The Application of AI-defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) Consortium brings together leading researchers, clinicians, and data scientists from prestigious institutions in Europe, Asia and Africa. We aim to develop and, more importantly, implement new ways to evaluate ovarian cancer molecular characteristics using artificial intelligence to support clinicians making treatment decisions globally.
+The Application of AI-defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) Consortium brings together leading researchers, clinicians, and data scientists from prestigious institutions in Europe, Asia and Africa.
+
+We aim to develop and, more importantly, **implement** new ways to evaluate ovarian cancer molecular characteristics using artificial intelligence to support clinicians making treatment decisions globally.
 
 ## Our Mission
 
-Our overarching mission is to develop ways to apply AI-defined molecular classifications globally
+Our mission is to develop ways to apply AI-defined molecular classifications globally
 
 ## Research Focus Areas
 
