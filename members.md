@@ -9,24 +9,24 @@ permalink: /members/
 ### Project Coordination
 
 **Dr. Elaine Leung**
-- University of Birmingham
 - Project Lead
+- University of Birmingham
 
 ### AI Leadership
 
 **Dr. Jonas Teuwen**
-- Netherlands Cancer Institute
 - AI for Oncology Lead
+- Netherlands Cancer Institute
 
 **Ajey Pai Karkala**
-- Netherlands Cancer Institute
 - PhD Candidate @ AI for Oncology
+- Netherlands Cancer Institute
 
 ### Data Science and Federated Learning
 
 **Prof. Andre Dekker**
-- Medical Data Works (MDW) & University of Maastricht
 - Clinical Data Science Lead
+- Medical Data Works (MDW) & University of Maastricht
 
 <br> 
 
