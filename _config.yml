@@ -1,5 +1,5 @@
 title: AAIMC-OC Consortium
-description: Application of AI defined Molecular Classifications in Ovarian Cancers
+description: Application of AI defined Molecular Classifications in Ovarian Cancer
 theme: minima
 plugins:
   - jekyll-feed
