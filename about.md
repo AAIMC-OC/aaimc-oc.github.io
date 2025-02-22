@@ -14,9 +14,10 @@ Our mission is to develop ways to apply AI-defined molecular classifications glo
 ## Research Focus Areas
 
 - AI-driven molecular classification
-- Digital pathology
+- Federated Learning 
+- Digital pathology implementation in different resource settings
 - Ovarian cancer biology
-- Translational research
+- Translational cancer research
 
 ## Current Research Funding
 
