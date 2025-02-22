@@ -248,4 +248,36 @@ a:hover {
 
 .page-content {
   padding: 0;
+}
+
+/* Page header styling */
+.post-header {
+  margin-bottom: 2em;
+}
+
+.post-title {
+  font-size: 2.2em;
+  color: var(--text-color);
+  margin-bottom: 0.5em;
+  font-weight: 400;
+}
+
+/* Remove any duplicate headers that might come from the content */
+.post-content h1:first-child {
+  display: none;
+}
+
+/* Ensure the site title only appears in the header */
+.site-title {
+  display: inline-block;
+}
+
+/* Hide any duplicate site titles in the content */
+.page-content .site-title {
+  display: none;
+}
+
+/* Ensure logo only appears in header */
+.page-content .logo-container {
+  display: none;
 } 
