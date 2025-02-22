@@ -39,16 +39,20 @@ body {
 }
 
 .site-logo {
-  width: 40px;
-  height: auto;
-  display: block;
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .site-title {
-  color: black;
-  font-size: 1.4em;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 1.2em;
   margin: 0;
   text-decoration: none;
+  color: black;
 }
 
 .site-nav {
