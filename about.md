@@ -19,5 +19,3 @@ Our overarching mission is to develop ways to apply AI-defined molecular classif
 ## Current Research Funding
 
 This work is funded by the US Department of Defense Congressionally Directed Medical Research Programmes (CDMRP) FY23 Ovarian Cancer Research Programme Award (OC230126).
- 
-
