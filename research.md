@@ -8,6 +8,8 @@ permalink: /Research/
 
 Established AI algorithms can determine Homologous Recombination Deficiency (HRD) and other molecular characteristics of ovarian tumours from H&E-stained histology images obtained using high-resolution slide scanners and low-cost imaging systems from different healthcare facilities in different parts of the world with no difference in model performance.
 
+<br>
+
 ## Our first objectives
 
 - To refine AI algorithms to evaluate HRD and other molecular characteristics in ovarian cancer from H&E whole-slide images (WSIs) using a multinational dataset
