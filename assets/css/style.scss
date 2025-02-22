@@ -2,11 +2,14 @@
 
 /* Color scheme */
 :root {
-  --primary-color: #2c3e50;
-  --secondary-color: #3498db;
-  --accent-color: #e74c3c;
-  --text-color: #333;
-  --light-bg: #f8f9fa;
+  --primary-color: #009B9B;  /* Teal main color */
+  --primary-dark: #008383;   /* Darker teal for hover states */
+  --primary-light: #E6F3F3;  /* Light teal for backgrounds */
+  --text-color: #333333;     /* Dark gray for main text */
+  --text-light: #666666;     /* Lighter gray for secondary text */
+  --border-color: #E5E5E5;   /* Light gray for borders */
+  --white: #FFFFFF;
+  --background-light: #F8F8F8; /* Light gray for section backgrounds */
 }
 
 /* Base styles */
@@ -14,15 +17,97 @@ body {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6;
   color: var(--text-color);
+  background: var(--white);
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 0.6em;
+}
+
+h3 {
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+}
+
+/* Links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--primary-dark);
+}
+
+/* Header and navigation */
+.site-header {
+  border-top: none;
+  border-bottom: 1px solid var(--border-color);
+  background: var(--white);
+}
+
+.site-title {
+  color: var(--primary-color);
+}
+
+.site-nav .page-link {
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover {
+  color: var(--primary-color);
+}
+
+/* Content sections */
+.section {
+  background: var(--background-light);
+  border-radius: 4px;
+  padding: 2em;
+  margin: 1.5em 0;
+}
+
+/* Buttons */
+.button {
+  display: inline-block;
+  padding: 0.8em 1.6em;
+  background-color: var(--primary-color);
+  color: var(--white);
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.button:hover {
+  background-color: var(--primary-dark);
+  color: var(--white);
+  text-decoration: none;
+}
+
+/* Footer */
+.site-footer {
+  background: var(--background-light);
+  border-top: 1px solid var(--border-color);
+  color: var(--text-color);
+}
+
+.footer-col-wrapper {
+  color: var(--text-light);
 }
 
 /* Header and banner styling */
-.site-header {
-  border-top: none;
-  border-bottom: none;
-  padding: 0;
-}
-
 .main-banner {
   background: white;
   padding: 1em 2em;
@@ -46,24 +131,9 @@ body {
   vertical-align: middle;
 }
 
-.site-title {
-  display: inline-block;
-  vertical-align: middle;
-  font-size: 1.2em;
-  margin: 0;
-  text-decoration: none;
-  color: black;
-}
-
 .site-nav {
   float: right;
   background: none;
-}
-
-.site-nav .page-link {
-  color: var(--text-color);
-  margin-left: 1.5em;
-  font-weight: 500;
 }
 
 /* Make the navigation horizontal */
@@ -95,28 +165,6 @@ body {
   }
 }
 
-/* Content styling */
-.page-content {
-  padding: 30px 0;
-}
-
-h1, h2, h3, h4 {
-  color: var(--primary-color);
-  margin-top: 1.5em;
-  margin-bottom: 0.8em;
-}
-
-/* Links */
-a {
-  color: var(--secondary-color);
-  transition: color 0.3s ease;
-}
-
-a:hover {
-  color: var(--accent-color);
-  text-decoration: none;
-}
-
 /* Member cards */
 .member-section {
   margin: 2em 0;
@@ -135,15 +183,4 @@ a:hover {
   padding: 2em;
   border-radius: 8px;
   margin: 2em 0;
-}
-
-/* Footer */
-.site-footer {
-  background: var(--primary-color);
-  color: white;
-  padding: 2em 0;
-}
-
-.footer-col-wrapper {
-  color: rgba(255,255,255,0.8);
 } 
