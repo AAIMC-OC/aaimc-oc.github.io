@@ -104,7 +104,7 @@ permalink: /members/
 - Senior Gynaeoncology Fellow
 
 ### OpenFlexure
-- **Dr Richard Bowman, Dr Joe Knapper** at the University of Glasgow
+- **Dr Richard Bowman and Dr Joe Knapper** at the University of Glasgow
 - **Professor William Wadsworth** at the University of Bath
 
 ### University of Birmingham Engineers
