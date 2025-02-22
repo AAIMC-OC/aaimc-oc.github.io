@@ -10,12 +10,6 @@ The Application of AI-defined Molecular Classifications in Ovarian Cancer (AAIMC
 
 Our overarching goal is to develop ways to apply AI-defined molecular classifications globally
 
-## Our Research Objectives
-
-To develop and implement innovative AI-driven approaches for better understanding and classifying ovarian cancer at the molecular level for personalised care
-To collate a database of paired images of H&E-stained tumour slides using high-cost whole slide scanners (gold standard) and a range of low-cost imaging techniques to compare AI model flexibility 
-To establish a privacy-preserving federated learning platform to reduce barriers to compare different AI approaches on the same multi-institutional datasets and future clinical implementation 
-
 ## Research Focus Areas
 
 - AI-driven molecular classification
