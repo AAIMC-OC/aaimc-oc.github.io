@@ -28,13 +28,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2.2em;
-  margin-bottom: 0.8em;
+  font-size: 2em;
+  color: var(--text-color);
+  font-weight: 400;
+  margin-bottom: 1em;
 }
 
 h2 {
-  font-size: 1.8em;
-  margin-bottom: 0.6em;
+  font-size: 1.6em;
+  color: var(--text-color);
+  font-weight: 400;
+  margin: 1.5em 0 1em;
 }
 
 h3 {
@@ -45,11 +49,10 @@ h3 {
 /* Links */
 a {
   color: var(--primary-color);
-  text-decoration: none;
-  transition: color 0.2s ease;
 }
 
 a:hover {
+  text-decoration: none;
   color: var(--primary-dark);
 }
 
@@ -75,11 +78,11 @@ a:hover {
 
 /* Content sections */
 .section {
-  background: var(--background-light);
-  border-radius: 4px;
-  padding: 2em;
-  margin: 1.5em 0;
-  border-left: 3px solid var(--primary-color);
+  background: var(--white);
+  border-radius: 0;
+  padding: 1.5em 0;
+  margin: 1em 0;
+  border-left: none;
 }
 
 /* Buttons */
@@ -112,11 +115,11 @@ a:hover {
 /* Header and banner styling */
 .main-banner {
   background: var(--white);
-  padding: 1em 2em;
+  padding: 0.8em 2em;
   display: flex;
   align-items: center;
-  border-bottom: 2px solid var(--primary-color); /* Teal border */
-  max-width: 1200px;
+  border-bottom: none; /* Remove border */
+  max-width: 1400px; /* Wider container */
   margin: 0 auto;
 }
 
@@ -124,13 +127,13 @@ a:hover {
 .banner-left {
   display: flex;
   align-items: center;
-  gap: 0.5em;
+  gap: 1em;
 }
 
 .logo-container {
   flex: 0 0 auto;
-  width: 35px; /* Fixed width container */
-  height: 35px; /* Fixed height container */
+  width: 50px; /* Slightly larger logo */
+  height: 50px;
 }
 
 .site-logo {
@@ -162,13 +165,19 @@ a:hover {
 
 .site-nav .page-link {
   color: var(--text-color);
-  margin-left: 2em;
-  font-weight: 500;
-  transition: color 0.2s ease;
+  margin-left: 2.5em;
+  font-size: 0.95em;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0.2px;
 }
 
-.site-nav .page-link:hover {
-  color: var(--primary-color); /* Teal on hover */
+/* Add teal banner below header */
+.teal-banner {
+  background: var(--primary-color);
+  height: 8px;
+  width: 100%;
+  margin: 0;
 }
 
 /* Make the navigation horizontal */
@@ -218,4 +227,15 @@ a:hover {
   padding: 2em;
   border-radius: 8px;
   margin: 2em 0;
+}
+
+/* Content styling */
+.wrapper {
+  max-width: 1200px;
+  padding: 2em;
+  margin: 0 auto;
+}
+
+.page-content {
+  padding: 0;
 } 
