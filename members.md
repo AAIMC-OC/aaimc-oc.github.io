@@ -4,121 +4,232 @@ title: Members
 permalink: /members/
 ---
 
-## Leadership Team
+<div class="member-section">
+  <h2>Leadership Team</h2>
 
-### Project Coordination
+  <div class="member-info">
+    <h3>Project Coordination</h3>
+    <strong>Dr. Elaine Leung</strong>
+    <ul>
+      <li>Project Lead</li>
+      <li>University of Birmingham</li>
+    </ul>
+  </div>
 
-**Dr. Elaine Leung**
-- Project Lead
-- University of Birmingham
+  <div class="member-info">
+    <h3>AI Leadership</h3>
+    <strong>Dr. Jonas Teuwen</strong>
+    <ul>
+      <li>AI for Oncology Lead</li>
+      <li>Netherlands Cancer Institute</li>
+    </ul>
+  </div>
 
-### AI Leadership
+  <div class="member-info">
+    <strong>Ajey Pai Karkala</strong>
+    <ul>
+      <li>PhD Candidate @ AI for Oncology</li>
+      <li>Netherlands Cancer Institute</li>
+    </ul>
+  </div>
 
-**Dr. Jonas Teuwen**
-- AI for Oncology Lead
-- Netherlands Cancer Institute
+  <div class="member-info">
+    <h3>Data Science and Federated Learning</h3>
+    <strong>Prof. Andre Dekker</strong>
+    <ul>
+      <li>Clinical Data Science Lead</li>
+      <li>Medical Data Works (MDW) & University of Maastricht</li>
+    </ul>
+  </div>
+</div>
 
-**Ajey Pai Karkala**
-- PhD Candidate @ AI for Oncology
-- Netherlands Cancer Institute
+<div class="member-section">
+  <h2>Early Academic Partners (By Site)</h2>
 
-### Data Science and Federated Learning
+  <div class="member-info">
+    <h3>University of Birmingham</h3>
+    <strong>Prof. Andrew Beggs</strong>
+    <ul>
+      <li>Professor of Cancer Genomics</li>
+    </ul>
+  </div>
 
-**Prof. Andre Dekker**
-- Clinical Data Science Lead
-- Medical Data Works (MDW) & University of Maastricht
+  <div class="member-info">
+    <strong>Laura Cole</strong>
+    <ul>
+      <li>Programme Manager, Genomics Birmingham</li>
+    </ul>
+  </div>
 
-<br> 
+  <div class="member-info">
+    <strong>Raji Ganesan</strong>
+    <ul>
+      <li>Professor of Gynaeoncology Pathology</li>
+    </ul>
+  </div>
 
-## Early Academic Partners (By Site)
+  <div class="member-info">
+    <h3>Netherlands Cancer Institute</h3>
+    <strong>Dr. Hugo Horlings</strong>
+    <ul>
+      <li>Netherlands Cancer Institute</li>
+      <li>Computational Pathology Lead</li>
+    </ul>
+  </div>
 
-### University of Birmingham
+  <div class="member-info">
+    <h3>University of Edinburgh</h3>
+    <strong>Prof. Charlie Gourley</strong>
+    <ul>
+      <li>Professor of Medical Oncology</li>
+    </ul>
+  </div>
 
-**Prof. Andrew Beggs**
-- Professor of Cancer Genomics
+  <div class="member-info">
+    <strong>Mr Mike Churchman</strong>
+    <ul>
+      <li>Laboratory Manager, Gourley's Laboratory</li>
+    </ul>
+  </div>
 
-**Laura Cole**
-- Programme Manager, Genomics Birmingham
+  <div class="member-info">
+    <h3>Leiden University Medical Center</h3>
+    <strong>Prof. Tjalling Bosse</strong>
+    <ul>
+      <li>Professor of Digital Pathology</li>
+      <li>Lead, AIRMEC Project</li>
+    </ul>
+  </div>
 
-**Raji Ganesan**
-- Professor of Gynaeoncology Pathology
+  <div class="member-info">
+    <h3>Kolkata Gynecological Oncology Trials & Translational Research Group (KolGoTrg)</h3>
+    <strong>Prof. Asima Mukhopadhyay</strong>
+    <ul>
+      <li>Professor of Gynaeoncology</li>
+      <li>Founder and secretary of KolGoTrg</li>
+    </ul>
+  </div>
 
-### Netherlands Cancer Institute
+  <div class="member-info">
+    <strong>Dr. Amlan Sarkar</strong>
+    <ul>
+      <li>Project Manager at KolGoTrg</li>
+    </ul>
+  </div>
 
-**Dr. Hugo Horlings**
-- Netherlands Cancer Institute
-- Computational Pathology Lead
+  <div class="member-info">
+    <h3>Kenya- Kenyatta National Hospital (KNH)/University of Nairobi (UoN) and Maseno University, Kisumu</h3>
+    <strong>Dr Mary Mungania</strong>
+    <ul>
+      <li>Consultant Pathologist, KNH</li>
+    </ul>
+  </div>
 
-### University of Edinburgh
+  <div class="member-info">
+    <strong>Dr. Edwin Walong</strong>
+    <ul>
+      <li>Senior Lecturer and Consultant Pathologist, Maseno University, Kisumu</li>
+    </ul>
+  </div>
 
-**Prof. Charlie Gourley**
-- Professor of Medical Oncology
+  <div class="member-info">
+    <h3>University of Basel</h3>
+    <strong>Prof. Viktor Koelzer</strong>
+    <ul>
+      <li>Professor of Digital Pathology</li>
+      <li>Lead, Swiss Tumor Profiler Initiative</li>
+    </ul>
+  </div>
 
-**Mr Mike Churchman**
-- Laboratory Manager, Gourley's Laboratory
+  <div class="member-info">
+    <h3>University of Manchester</h3>
+    <strong>Prof. Richard Edmondson</strong>
+    <ul>
+      <li>Professor of Gynaeoncology</li>
+    </ul>
+  </div>
+</div>
 
-### Leiden University Medical Center
+<div class="member-section">
+  <h2>Additional Academic Partners (Post-Award)</h2>
 
-**Prof. Tjalling Bosse**
-- Professor of Digital Pathology
-- Lead, AIRMEC Project
+  <div class="member-info">
+    <h3>All India Institute Of Medical Sciences, New Delhim India (AIIMS, via KolGoTrg)</h3>
+    <strong>Dr/Prof. Seema Singhal</strong>
+    <ul>
+      <li>Gynaecologic Oncologist, Additional Professor, AIIMS</li>
+    </ul>
+  </div>
 
-### Kolkata Gynecological Oncology Trials & Translational Research Group (KolGoTrg)
+  <div class="member-info">
+    <strong>Dr Aarthi Jayraj</strong>
+    <ul>
+      <li>Senior Gynaeoncology Fellow</li>
+    </ul>
+  </div>
 
-**Prof. Asima Mukhopadhyay**
-- Professor of Gynaeoncology
-- Founder and secretary of KolGoTrg
+  <div class="member-info">
+    <h3>OpenFlexure</h3>
+    <strong>Dr Richard Bowman and Dr Joe Knapper</strong>
+    <ul>
+      <li>University of Glasgow</li>
+    </ul>
+  </div>
 
-**Dr. Amlan Sarkar**
-- Project Manager at KolGoTrg
+  <div class="member-info">
+    <strong>Professor William Wadsworth</strong>
+    <ul>
+      <li>University of Bath</li>
+    </ul>
+  </div>
 
-### Kenya- Kenyatta National Hospital (KNH)/University of Nairobi (UoN) and Maseno University, Kisumu
+  <div class="member-info">
+    <h3>University of Birmingham Engineers</h3>
+    <strong>Dr Thomas (Tom) Mills</strong>
+    <ul>
+      <li>lecturer of Chemical Engineering</li>
+    </ul>
+  </div>
 
-**Dr Mary Mungania**
-- Consultant Pathologist, KNH
+  <div class="member-info">
+    <strong>Mr Rhys Coldrick and Mr Maninder Dayal</strong>
+    <ul>
+      <li>coordinators of the Makers' Space at UoB</li>
+    </ul>
+  </div>
 
-**Dr. Edwin Walong**
-- Senior Lecturer and Consultant Pathologist, Maseno University, Kisumu
-  
-### University of Basel
+  <div class="member-info">
+    <strong>Mr Jesse Eugene-Oseyomon</strong>
+    <ul>
+      <li>BSc Candidate</li>
+    </ul>
+  </div>
+</div>
 
-**Prof. Viktor Koelzer**
-- Professor of Digital Pathology
-- Lead, Swiss Tumor Profiler Initiative
+<div class="member-section">
+  <h2>Other supporters</h2>
 
-### University of Manchester
+  <div class="member-info">
+    <strong>Johan van Soest</strong>
+    <ul>
+      <li>from Medical Data Works (MDW)</li>
+    </ul>
+  </div>
 
-**Prof. Richard Edmondson**
-- Professor of Gynaeoncology
+  <div class="member-info">
+    <strong>Dr. Faiza Gaba</strong>
+    <ul>
+      <li>from GO-SOAR</li>
+    </ul>
+  </div>
 
-<br> 
-
-## Additional Academic Partners (Post-Award)
-
-### All India Institute Of Medical Sciences, New Delhim India (AIIMS, via KolGoTrg)
-
-**Dr/Prof. Seema Singhal**
-- Gynaecologic Oncologist, Additional Professor, AIIMS
- 
-**Dr Aarthi Jayraj**
-- Senior Gynaeoncology Fellow
-
-### OpenFlexure
-- **Dr Richard Bowman and Dr Joe Knapper** at the University of Glasgow
-- **Professor William Wadsworth** at the University of Bath
-
-### University of Birmingham Engineers
-- **Dr Thomas (Tom) Mills**, lecturer of Chemical Engineering
-- **Mr Rhys Coldrick and Mr Maninder Dayal**, coordinators of the Makers' Space at UoB
-- **Mr Jesse Eugene-Oseyomon**, BSc Candidate
-
-<br> 
-
-## Other supporters
-
-- **Johan van Soest** from Medical Data Works (MDW)
-- **Dr. Faiza Gaba** from GO-SOAR
-- **Dr Allan Njau and Dr Jonathan Wawire** from Aga Khan University in Kenya
+  <div class="member-info">
+    <strong>Dr Allan Njau and Dr Jonathan Wawire</strong>
+    <ul>
+      <li>from Aga Khan University in Kenya</li>
+    </ul>
+  </div>
+</div>
 
 
 

@@ -11,6 +11,9 @@ header_pages:
   - research.md
   - contact.md
 
+# Add Google Fonts
+google_fonts: "Open+Sans:400,600,700|Roboto:400,500,700"
+
 # Social links (optional)
 # twitter_username: username
 # github_username:  username
