@@ -4,13 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
-For more information about the AAIMC-OC consortium, please contact:
+**Further information**  
 
-**Project Lead/Coordinator**  
-Dr. Elaine Leung  
-University of Birmingham  
-[AAIMC_OC@contacts.bham.ac.uk]
+For further information about the AAIMC-OC consortium, please contact us at [AAIMC_OC@contacts.bham.ac.uk].
 
 ## Join Us
 
-We welcome collaboration opportunities with researchers and institutions interested in advancing ovarian cancer research through AI and molecular classification. Please contact our project coordinator for more information about potential partnerships. 
+We welcome collaboration opportunities with researchers and institutions interested in advancing ovarian cancer research through AI and molecular classification. Please contact our project coordinator for more information about potential partnerships.
+
+In particular, we are actively looking for partners to expand the use of our federated learning platform for equitable technology implementation globally.
