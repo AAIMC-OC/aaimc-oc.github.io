@@ -11,6 +11,10 @@ header_pages:
   - research.md
   - contact.md
 
+# Theme settings
+logo: /assets/images/logo.png
+color_scheme: teal
+
 # Add Google Fonts
 google_fonts: "Open+Sans:400,600,700|Roboto:400,500,700"
 
