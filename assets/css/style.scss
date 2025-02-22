@@ -90,4 +90,81 @@ a:hover {
 
 .footer-col-wrapper {
   color: rgba(255,255,255,0.8);
+}
+
+/* Hero section */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  color: white;
+  padding: 4em 0;
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.hero-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.hero-title {
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+  color: white;
+}
+
+.hero-description {
+  font-size: 1.2em;
+  margin-bottom: 2em;
+  opacity: 0.9;
+}
+
+/* Feature cards */
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2em;
+  padding: 2em 0;
+}
+
+.feature-card {
+  background: white;
+  padding: 1.5em;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+}
+
+.feature-icon {
+  font-size: 2em;
+  color: var(--secondary-color);
+  margin-bottom: 0.5em;
+}
+
+/* Call to action */
+.cta-section {
+  background: var(--light-bg);
+  padding: 3em 0;
+  text-align: center;
+  margin: 3em 0;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 1em 2em;
+  background: var(--accent-color);
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+  background: #c0392b;
+  color: white;
 } 
