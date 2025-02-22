@@ -63,6 +63,7 @@ permalink: /members/
 ### Kolkata Gynecological Oncology Trials & Translational Research Group (KolGoTrg)
 
 **Prof. Asima Mukhopadhyay**
+- Professor of Gynaeoncology
 - Founder and secretary of KolGoTrg
 
 **Dr. Amlan Sarkar**
@@ -81,3 +82,11 @@ permalink: /members/
 **Prof. Viktor Koelzer**
 - Professor of Digital Pathology
 - Lead, Swiss Tumor Profiler Initiative
+
+### University of Manchester
+
+**Prof. Richard Edmondson**
+- Professor of Gynaeoncology
+
+  
+
