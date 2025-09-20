@@ -10,7 +10,7 @@ Established AI algorithms can determine Homologous Recombination Deficiency (HRD
 
 <br>
 
-## Our first objectives
+## Our initial objectives
 
 - To refine AI algorithms to evaluate HRD and other molecular characteristics in ovarian cancer from H&E whole-slide images (WSIs) using a multinational dataset
 - To generate a matched cohort of images using different imaging systems and at different magnifications relevant for different resources settings to evaluate model flexibility of the established AI algorithms
