@@ -26,6 +26,22 @@ permalink: /members/
   </ul>
 </div>
 
+  <div class="member-info">
+    <h3>Dr. Hugo Horlings</h3>
+    <ul>
+    <li>AI for Oncology Lead</li>
+    <li>Netherlands Cancer Institute</li>
+  </ul>
+</div>
+
+  <div class="member-info">
+  <strong>Sara P. Oliveira</strong>
+  <ul>
+    <li>Postdoctoral researcher</li>
+    <li>Netherlands Cancer Institute</li>
+  </ul>
+</div>
+
 <div class="member-info">
   <strong>Ajey Pai Karkala</strong>
   <ul>
@@ -51,7 +67,7 @@ permalink: /members/
     <h3>University of Birmingham</h3>
     <strong>Prof. Andrew Beggs</strong>
     <ul>
-      <li>Professor of Cancer Genomics</li>
+      <li>Professor of Cancer Genomics (Academic Mentor)</li>
     </ul>
   </div>
 
@@ -63,18 +79,16 @@ permalink: /members/
   </div>
 
   <div class="member-info">
-    <strong>Raji Ganesan</strong>
+    <strong>Aashti Shauriq</strong>
     <ul>
-      <li>Professor of Gynaeoncology Pathology</li>
+      <li>AAIMC-OC Project Technician</li>
     </ul>
   </div>
 
   <div class="member-info">
-    <h3>Netherlands Cancer Institute</h3>
-    <strong>Dr. Hugo Horlings</strong>
+    <strong>Raji Ganesan</strong>
     <ul>
-      <li>Netherlands Cancer Institute</li>
-      <li>Computational Pathology Lead</li>
+      <li>Professor of Gynaeoncology Pathology</li>
     </ul>
   </div>
 
@@ -155,7 +169,7 @@ permalink: /members/
   <h2>Additional Academic Partners (Post-Award)</h2>
 
   <div class="member-info">
-    <h3>All India Institute Of Medical Sciences, New Delhm, India (AIIMS, via KolGoTrg)</h3>
+    <h3>All India Institute Of Medical Sciences, New Delhi, India (AIIMS, via KolGoTrg)</h3>
     <strong>Dr/Prof. Seema Singhal</strong>
     <ul>
       <li>Gynaecologic Oncologist, Additional Professor, AIIMS</li>
