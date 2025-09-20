@@ -213,14 +213,6 @@ permalink: /members/
     </ul>
   </div>
 
-  <div class="member-info">
-    <strong>Mr Jesse Eugene-Oseyomon</strong>
-    <ul>
-      <li>BSc Candidate</li>
-    </ul>
-  </div>
-</div>
-
 <div class="member-section">
   <h2>Other supporters</h2>
 
