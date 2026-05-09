@@ -14,7 +14,7 @@ By enabling collaboration across diverse healthcare systems without sharing sens
 
 For further information about the AAIMC-OC Consortium, please contact us at <a href="mailto:AAIMC_OC@contacts.bham.ac.uk">AAIMC_OC@contacts.bham.ac.uk</a>
 </div>
-
+---
 ## Latest Updates
 
 Stay tuned for news and updates about our research and initiatives.
