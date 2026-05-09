@@ -111,8 +111,8 @@ This membership list includes collaborators who have joined or agreed to support
 
 **Expertise: Low-cost imaging systems**
 
-- **Dr Richard Bowman**, 
-- **Dr Joe Knapper**
+- **Dr Richard Bowman**, Royal Society University Research Fellow, University of Glasgow
+- **Dr Joe Knapper**, Post-doctoral Research Associate, University of Glasgow
 - **Julian Stirling**, Chief Executive at Humanitarian Technology Trust and lead developer   
 - **Prof. William Wadsworth**, Professor of Physics at the University of Bath    
 
