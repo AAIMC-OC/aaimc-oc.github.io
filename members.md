@@ -13,7 +13,7 @@ This membership list includes collaborators who have joined or agreed to support
 
 <div class="member-section">
 
-  ### University of Birmingham\*
+### University of Birmingham\*
 
 **Expertise: Programme coordination, Domain knowledge, Image dataset**
 
