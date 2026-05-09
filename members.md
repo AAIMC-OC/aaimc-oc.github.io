@@ -39,8 +39,12 @@ This membership list includes collaborators who have joined or agreed to support
 - **Prof. Andre Dekker**, Clinical Data Science Lead
 - **Johan van Soest**, Medical Data Works    
 
-</div>
+### University of British Columbia, Canada
 
+**Expertise: AI model development, Image dataset**
+
+- **Dr. Ali Bashashati**, the director of AI research in the Ovarian Cancer Research Program (OVCARE)
+  
 ## Academic Partners (By Institution)
 
 <div class="member-section">
