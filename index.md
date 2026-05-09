@@ -16,7 +16,7 @@ For further information about the AAIMC-OC Consortium, please contact us at <a h
 ---
 ## Latest Updates
 
-Stay tuned for news and updates about our research and initiatives here and at our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview).
+Stay tuned for news and updates about our research and initiatives here and at our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview){:target="_blank"}.
 
 [Learn more about us](/about) 
 
