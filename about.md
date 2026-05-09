@@ -33,7 +33,3 @@ Our work focuses not only on developing AI, but on **ensuring that these tools a
 
 - **Federated, privacy preserving infrastructure**  
   Patient data remain securely within each institution, enabling collaboration whilst reducing data sharing.
-
-### Current research funding
-
-This work is currently funded by the US Department of Defense Congressionally Directed Medical Research Programmes (CDMRP) FY23 Ovarian Cancer Research Programme Award (OC230126).
