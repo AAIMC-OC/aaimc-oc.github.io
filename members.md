@@ -8,8 +8,6 @@ AAIMC‑OC is a clinician led international collaboration bringing together expe
 
 This membership list includes collaborators who have joined or agreed to support us over time. Founding teams are marked by an asterisk (*).
 
----
-
 ## Leadership
 
 ### University of Birmingham*
@@ -18,7 +16,6 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Dr Elaine Leung**, Project Lead  
 
----
 
 ## Core AI and Data Science Teams
 
@@ -31,7 +28,6 @@ This membership list includes collaborators who have joined or agreed to support
 - **Sara P. Oliveira**, Postdoctoral Researcher  
 - **Ajey Pai Karkala**, PhD Candidate  
 
----
 
 ### University of Maastricht & Medical Data Works*
 
@@ -40,7 +36,6 @@ This membership list includes collaborators who have joined or agreed to support
 - **Prof. Andre Dekker**, Clinical Data Science Lead  
 - **Johan van Soest**, Medical Data Works  
 
----
 
 ### University of British Columbia
 
@@ -48,20 +43,19 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Dr Ali Bashashati**, Director of AI Research (OVCARE)  
 
----
 
 ## Academic Partners
 
 ### University of Birmingham*
 
-**Expertise: Molecular diagnostics, pathology**
+**Expertise: Molecular diagnostics, pathology, Engineering**
 
 - **Prof. Andrew Beggs**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager  
-- **Aashti Shauriq**, Technician  
-
----
+- **Aashti Shauriq**, Technician
+- **Dr Thomas Mills**, Lecturer in chemical engineering
+- **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space  
 
 ### University of Edinburgh*
 
@@ -70,16 +64,12 @@ This membership list includes collaborators who have joined or agreed to support
 - **Prof. Charlie Gourley**, Professor of Medical Oncology  
 - **Mr Mike Churchman**, Laboratory Manager  
 
----
-
 ### KolGOTrg (India)*
 
 **Expertise: LMIC gynaecological oncology, clinical trials**
 
 - **Prof. Asima Mukhopadhyay**, Founder  
 - **Dr Amlan Sarkar**, Project Manager  
-
----
 
 ### Kenya (Kenyatta National Hospital / Maseno University)*
 
@@ -89,7 +79,6 @@ This membership list includes collaborators who have joined or agreed to support
 - **Dr Job Mwale**, Consultant Pathologist  
 - **Dr Edwin Walong**, Senior Lecturer  
 
----
 
 ### University of Basel*
 
@@ -97,7 +86,6 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Prof. Viktor Koelzer**, Lead, Swiss Tumor Profiler  
 
----
 
 ### Leiden University Medical Center*
 
@@ -105,7 +93,6 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Prof. Tjalling Bosse**, Lead, AIRMEC Project  
 
----
 
 ### University of Manchester*
 
@@ -125,17 +112,6 @@ This membership list includes collaborators who have joined or agreed to support
 - **Dr Joe Knapper**, University of Glasgow  
 - **Julian Stirling**, Humanitarian Technology Trust  
 - **Prof. William Wadsworth**, University of Bath  
-
----
-
-### University of Birmingham (Engineering)
-
-**Expertise: Device development**
-
-- **Dr Thomas Mills**, Lecturer  
-- **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space  
-
----
 
 ## Wider Collaborators and Support
 
