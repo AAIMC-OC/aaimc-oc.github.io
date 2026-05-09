@@ -4,9 +4,9 @@ title: Members
 permalink: /members/
 ---
 
-AAIMC‑OC is a clinician led international collaboration bringing together expertise in AI, clinical oncology, pathology, and data science across Europe, Africa, and Asia.  
+AAIMC‑OC is a clinician-led international collaborative consortium bringing together expertise in AI, clinical oncology, pathology, and data science. Our pilot started in 3 continents (Europe, Africa, and Asia) and now have collaborators in 5 continents (Europe, Africa, Asia, North America and Australia). 
 
-This membership list includes collaborators who have joined or agreed to support us over time. Founding teams are marked by an asterisk (*).
+This membership list includes collaborators who have joined and supported us over time. Founding teams are marked by an asterisk (*).
 
 ## Leadership
 
@@ -53,7 +53,7 @@ This membership list includes collaborators who have joined or agreed to support
 - **Prof. Andrew Beggs**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager  
-- **Aashti Shauriq**, Technician
+- **Aashti Shauriq**, AAIMC-OC Technician
 - **Dr Thomas Mills**, Lecturer in chemical engineering
 - **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space  
 
