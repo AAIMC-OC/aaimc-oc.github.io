@@ -24,7 +24,7 @@ PARP inhibitor therapy has significantly improved patients survival in ovarian c
 **Now:**  
 We have established international collaboration agreements and licenses to conduct research in low-and-middle-income-country settings, multinational datasets and early federated learning infrastructure test.
 
-Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview?view_only=928d14d083624213bf3c1da605a1d4ef) for our latest output and activities. 
+Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview) for our latest output and activities. 
 
 **What's next?**  
 - Development of interoperable data systems and multi site evaluation of AI diagnostics  
