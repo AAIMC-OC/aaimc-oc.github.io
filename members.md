@@ -29,7 +29,7 @@ This membership list includes collaborators who have joined and supported us ove
 - **Ajey Pai Karkala**, PhD Candidate, AI for Oncology
 
 
-### University of Maastricht & Medical Data Works\*
+### [Clinical Data Science, University of Maastricht](https://www.clinicaldatascience.nl/) & [Medical Data Works](https://www.medicaldataworks.nl/), Netherlands\*
 
 **Expertise: Clinical data science, federated learning**
 
@@ -37,7 +37,7 @@ This membership list includes collaborators who have joined and supported us ove
 - **Johan van Soest**, Medical Data Works  
 
 
-### University of British Columbia
+### [The AIM Lab, University of British Columbia](https://aimlab.ca/), Canada
 
 **Expertise: AI model development, image datasets**
 
@@ -50,7 +50,7 @@ This membership list includes collaborators who have joined and supported us ove
 
 **Expertise: Molecular diagnostics, pathology, Engineering**
 
-- **Prof. Andrew Beggs**, Academic Mentor  
+- **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager  
 - **Aashti Shauriq**, AAIMC-OC Technician
@@ -61,10 +61,10 @@ This membership list includes collaborators who have joined and supported us ove
 
 **Expertise: Oncology, translational research, image datasets**
 
-- **Prof. Charlie Gourley**, Professor of Medical Oncology  
+- **[Prof. Charlie Gourley](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/gourley-group)**, Professor of Medical Oncology  
 - **Mr Mike Churchman**, Laboratory Manager  
 
-### Kolkata Gynecological Oncology Trials and Translational Research Group (KolGOTrg, India)\*
+### [Kolkata Gynecological Oncology Trials and Translational Research Group](https://www.kolgotrg.org/) (KolGOTrg, India)\*
 
 **Expertise: LMIC gynaecological oncology, clinical trials, image datasets**
 
@@ -83,14 +83,14 @@ This membership list includes collaborators who have joined and supported us ove
 
 **Expertise: Digital pathology, tumour profiling, image datasets**
 
-- **Prof. Viktor Koelzer**, Professor of Digital Pathology; Lead, Swiss Tumor Profiler Initiative 
+- **[Prof. Viktor Koelzer](https://health.dsi.uzh.ch/member/viktor-hendrik-koelzer/)**, Professor of Digital Pathology; Lead, Swiss Tumor Profiler Initiative 
 
 
 ### Leiden University Medical Center\*
 
 **Expertise: Digital pathology, image datasets**
 
-- **Prof. Tjalling Bosse**, Professor of Digital Pathology (Lead, AIRMEC Project)
+- **Prof. Tjalling Bosse**, Professor of Digital Pathology (Lead, [AIRMEC Project](https://airmec.ai/))
 
 
 ### University of Manchester\*
@@ -103,7 +103,7 @@ This membership list includes collaborators who have joined and supported us ove
 
 ## Additional Academic Partners after our pilot initiation
 
-### OpenFlexure Project
+### [The OpenFlexure Project](https://openflexure.org/)
 
 **Expertise: Low‑cost imaging technique**
 
@@ -114,12 +114,12 @@ This membership list includes collaborators who have joined and supported us ove
 
 ## Wider Collaborators and Support
 
-- **Dr Faiza Gaba**, GO-SOAR Consortium; Global Networks
+- **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
 - **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya; LMIC Gynaecological Oncology
-- **Dr Sidong Liu**, Macquarie University, Australia; Federated AI development in histopathology
-- **Dr Mary Kinloch**, University of Saskatchewan, Canada; Image dataset
-- **Prof. Martin Oehler**, University of Adelaide, Australia; Image dataset
-- **Prof. Estrid Høgdall & Dr Lone Dupont**, University of Copenhagen, Denmark; Image dataset (external validation)
-- **Prof. Susan Ramus**, Ovarian Tumour Tissue Analysis Consortium; Image dataset (external validation)
+- **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
+- **[Dr Mary Kinloch](https://medicine.usask.ca/profiles/pathology-and-laboratory-medicine/saskatoon/mary-kinloch.php)**, University of Saskatchewan, Canada; Image dataset
+- **[Prof. Martin Oehler](https://adelaide.edu.au/people/martin.oehler)**, University of Adelaide, Australia; Image dataset
+- **[Prof. Estrid Høgdall & Dr Lone Dupont](https://researchprofiles.ku.dk/da/persons/estrid-vilma-solyom-h%C3%B8gdall/)**, University of Copenhagen, Denmark; Image dataset (external validation)
+- **Prof. Susan Ramus**, [Ovarian Tumour Tissue Analysis Consortium](https://ottaconsortium.org/); Image dataset (external validation)
 
