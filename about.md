@@ -32,11 +32,11 @@ Our work focuses not only on developing AI, but on **ensuring that these tools a
 - **Global, real world datasets**  
   Our collaboration spans high-income and low-and-middle-income countries, ensuring representativeness and relevance.
 
-- **Federated, privacy preserving infrastructure**  
-  Patient data remain securely within each institution, enabling collaboration without data sharing.
-
 - **Focus on implementation, not just development**  
   We address data systems, governance, workforce readiness, and clinical integration — the real barriers to impact.
+
+- **Federated, privacy preserving infrastructure**  
+  Patient data remain securely within each institution, enabling collaboration without data sharing.
 
 ---
 ## Current Research Funding
