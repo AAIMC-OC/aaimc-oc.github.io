@@ -59,20 +59,20 @@ This membership list includes collaborators who have joined and supported us ove
 
 ### University of Edinburgh\*
 
-**Expertise: Oncology, translational research**
+**Expertise: Oncology, translational research, image datasets**
 
 - **Prof. Charlie Gourley**, Professor of Medical Oncology  
 - **Mr Mike Churchman**, Laboratory Manager  
 
 ### Kolkata Gynecological Oncology Trials and Translational Research Group (KolGOTrg, India)\*
 
-**Expertise: LMIC gynaecological oncology, clinical trials**
+**Expertise: LMIC gynaecological oncology, clinical trials, image datasets**
 
 - **Prof. Asima Mukhopadhyay**, Professor of Gynaeoncology; Founder, KolGOTrg  
 
 ### Kenyatta National Hospital, Nairobi/ Maseno University, Kisumu in Kenya\*
 
-**Expertise: Pathology, LMIC implementation**
+**Expertise: Pathology, LMIC implementation, image datasets**
 
 - **Dr Mary Mungania**, Consultant Pathologist, KNH  
 - **Dr Job Mwale**, Consultant Pathologist, KNH
@@ -81,14 +81,14 @@ This membership list includes collaborators who have joined and supported us ove
 
 ### University of Basel\*
 
-**Expertise: Digital pathology, tumour profiling**
+**Expertise: Digital pathology, tumour profiling, image datasets**
 
 - **Prof. Viktor Koelzer**, Professor of Digital Pathology; Lead, Swiss Tumor Profiler Initiative 
 
 
 ### Leiden University Medical Center\*
 
-**Expertise: Digital pathology, specimen datasets**
+**Expertise: Digital pathology, image datasets**
 
 - **Prof. Tjalling Bosse**, Professor of Digital Pathology (Lead, AIRMEC Project)
 
@@ -101,11 +101,11 @@ This membership list includes collaborators who have joined and supported us ove
 
 ---
 
-## Additional Academic Partners
+## Additional Academic Partners after our pilot initiation
 
 ### OpenFlexure Project
 
-**Expertise: Low‑cost imaging**
+**Expertise: Low‑cost imaging technique**
 
 - **Dr Richard Bowman**, Royal Society University Research Fellow, University of Glasgow
 - **Dr Joe Knapper**, Post-doctoral Research Associate, University of Glasgow
