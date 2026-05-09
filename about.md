@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # AAIMC-OC Consortium  
 ### Democratising AI diagnostics for equitable cancer care
-**The Application of AI‑defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) is a global research consortium aiming to develop and rigorously evaluate AI‑defined cancer diagnostics using federated learning.**
+The Application of AI‑defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) is a global research consortium aiming to develop and rigorously evaluate AI‑defined cancer diagnostics using federated learning.
 
 ### The challenge
 
