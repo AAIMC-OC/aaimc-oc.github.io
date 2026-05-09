@@ -16,6 +16,7 @@ Targeted cancer treatments are transforming outcomes in ovarian cancer. However,
 Artificial intelligence (AI) offers a potential solution by analysing standard pathology images (H&E slides), which are already used routinely in hospitals globally. Yet current AI tools are typically developed using data from high income countries and may not perform reliably across diverse populations or healthcare systems.
 
 This risks reinforcing existing global inequalities in cancer care.
+
 ---
 
 ## Our approach
