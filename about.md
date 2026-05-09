@@ -8,7 +8,6 @@ permalink: /about/
 
 **AAIMC‑OC is a global research platform aiming to develop and rigorously evaluate AI‑defined cancer diagnostics using federated learning.**
 
-By enabling collaboration across diverse healthcare systems without sharing sensitive patient data, it ensures that AI tools are robust, generalisable, and clinically meaningful, while supporting equitable access to precision medicine for patients worldwide.
 ---
 ## The challenge
 
