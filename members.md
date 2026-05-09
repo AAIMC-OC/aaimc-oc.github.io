@@ -70,7 +70,7 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Prof. Asima Mukhopadhyay**, Professor of Gynaeoncology; Founder, KolGOTrg  
 
-### Kenya (Kenyatta National Hospital, Nairobi/ Maseno University)\*
+### Kenyatta National Hospital, Nairobi/ Maseno University, Kisumu, Kenya\*
 
 **Expertise: Pathology, LMIC implementation**
 
