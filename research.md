@@ -3,10 +3,13 @@ layout: page
 title: Research
 permalink: /research/
 ---
+## Research focus
 
-## Our hypothesis
+Our initial scientific focus remains on **homologous recombination deficiency (HRD)**, a key biomarker guiding treatment decisions such as PARP inhibitor therapy in ovarian cancer. 
 
-Established AI algorithms can determine Homologous Recombination Deficiency (HRD) and other molecular characteristics of ovarian tumours from H&E-stained histology images obtained using high-resolution slide scanners and low-cost imaging systems from different healthcare facilities in different parts of the world with no difference in model performance.
+## AAIMC-OC Pilot Hypothesis
+
+Established AI algorithms can determine Homologous Recombination Deficiency (HRD) and other molecular characteristics of ovarian tumours from H&E stained histology images obtained using both high resolution slide scanners and low cost imaging systems across different healthcare settings, without significant differences in performance.
 
 <br>
 
@@ -19,5 +22,18 @@ Established AI algorithms can determine Homologous Recombination Deficiency (HRD
 <img src="/assets/images/ppflp.png" alt="Research Diagram" width="540">
 
 <br>
+
+## Our trajectory
+
+**Now:**  
+Established multinational datasets, international collaborations, and early federated learning infrastructure  
+
+**What's next:**  
+Development of interoperable data systems and multi site evaluation of AI diagnostics  
+Develop a scalable federated research ecosystem enabling equitable AI diagnostics to be compared and delivered across healthcare systems  
+
+<br>
+<img width="468" height="218" alt="image" src="https://github.com/user-attachments/assets/b6325e74-2326-4087-8136-106577df02bc" />
+
 
 For further information about the AAIMC-OC Consortium or joining, please contact us at AAIMC_OC@contacts.bham.ac.uk
