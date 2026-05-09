@@ -13,19 +13,19 @@ This membership list includes collaborators who have joined or agreed to support
 
 ### University of Birmingham\*
 
-**Expertise: Clinical leadership, programme coordination**
+**Expertise: Programme coordination, Clinical domain knowledge and leadership, Image dataset**
 
 - **Dr Elaine Leung**, Project Lead  
 
 </div>
 
-## Core AI and Data Science Team
+## Core AI and Data Science Teams
 
 <div class="member-section">
 
 ### Netherlands Cancer Institute\*
 
-**Expertise: AI for oncology, model development**
+**Expertise: AI for oncology, model development, Image dataset**
 
 - **Dr Hugo Horlings**, AI for Oncology Lead  
 - **Dr Jonas Teuwen**, AI for Oncology Lead  
@@ -47,7 +47,7 @@ This membership list includes collaborators who have joined or agreed to support
 
 ### University of Birmingham\*
 
-**Expertise: Molecular diagnostics, pathology, programme delivery**
+**Expertise: Molecular diagnostics, pathology**
 
 - **Prof. Andrew Beggs**, Professor of Cancer Genomics (Academic Mentor)  
 
@@ -55,11 +55,11 @@ This membership list includes collaborators who have joined or agreed to support
 
 - **Laura Cole**, Programme Manager, Genomics Birmingham  
 
-- **Aashti Shauriq**, Project Technician  
+- **Aashti Shauriq**, AAIMC-OC Technician  
 
 ### University of Edinburgh\*
 
-**Expertise: oncology, translational research, pathology specimens**
+**Expertise: oncology, translational research, Image dataset**
 
 - **Prof. Charlie Gourley**, Professor of Medical Oncology  
 
@@ -67,13 +67,13 @@ This membership list includes collaborators who have joined or agreed to support
 
 ### Kolkata Gynecological Oncology Trials and Translational Research Group (KolGO Trg, India)\*
 
-**Expertise: Gynaecological oncology trials in LMIC**
+**Expertise: Gynaecological oncology trials in LMIC, Image dataset**
 
 - **Prof. Asima Mukhopadhyay**, Professor of Gynaeoncology; Founder, KolGOTrg  
 
 ### Kenya (Kenyatta National Hospital / Maseno University)\*
 
-**Expertise: Pathology, LMIC implementation**
+**Expertise: Pathology, LMIC implementation, Image dataset**
 
 - **Dr Mary Mungania**, Consultant Pathologist, KNH
 - **Dr Job Mwale**, Consultant Pathologist, KNH  
@@ -81,13 +81,13 @@ This membership list includes collaborators who have joined or agreed to support
 
 ### University of Basel\*
 
-**Expertise: Digital pathology and tumour profiling**
+**Expertise: Digital pathology and tumour profiling, Image dataset**
 
 - **Prof. Viktor Koelzer**, Professor of Digital Pathology; Lead, Swiss Tumor Profiler Initiative
 
 ### Leiden University Medical Center\*
 
-**Expertise: Digital pathology, pathology specimens**
+**Expertise: Digital pathology, pathology specimens, Image dataset**
 
 - **Prof. Tjalling Bosse**, Professor of Digital Pathology (Lead, AIRMEC Project)
   
@@ -123,9 +123,8 @@ This membership list includes collaborators who have joined or agreed to support
 ## Wider Collaborators and Support
 <div class="member-section">
   
-**Expertise: global networks, LMIC gynaecological oncology, molecular diagnostics**
-- **Dr Faiza Gaba**, GO-SOAR Consortium  
-- **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya  
-- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya  
+- **Dr Faiza Gaba**, GO-SOAR Consortium; Global Networks  
+- **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics  
+- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya; LMIC Gynaecological Oncology 
 </div>
 
