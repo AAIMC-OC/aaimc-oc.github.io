@@ -3,15 +3,14 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## Research focus
+## Overarching research question
 
-Our initial scientific focus remains on **homologous recombination deficiency (HRD)**, a key biomarker guiding treatment decisions such as PARP inhibitor therapy in ovarian cancer. 
+Can we use routine H&E images to develop low-cost AI-defined molecular tests and use them for tailoring cancer treatments
+in a global setting?
 
-## AAIMC-OC Pilot Hypothesis
+PARP inhibitor therapy has significantly improved patients survival in ovarian cancer. Our initial focus is on a key biomarker guiding treatment decisions of PARP inhibitor therapy known as **homologous recombination deficiency (HRD)**. 
 
-Established AI algorithms can determine Homologous Recombination Deficiency (HRD) and other molecular characteristics of ovarian tumours from H&E stained histology images obtained using both high resolution slide scanners and low cost imaging systems across different healthcare settings, without significant differences in performance.
-<br>
-## Our initial objectives
+## AAIMC-OC Pilot objectives
 - To refine AI algorithms to evaluate HRD and other molecular characteristics in ovarian cancer from H&E whole-slide images (WSIs) using a multinational dataset
 - To generate a matched cohort of images using different imaging systems and at different magnifications relevant for different resources settings to evaluate model flexibility of the established AI algorithms
 - To evaluate the feasibility to implement AI-defined molecular tests in poor-resource settings using a privacy-preserving federated learning platform
@@ -23,9 +22,9 @@ Established AI algorithms can determine Homologous Recombination Deficiency (HRD
 ## Our work so far
 
 **Now:**  
-Established multinational datasets, international collaborations and early federated learning infrastructure  
+Established international collaboration agreements and licenses to conduct research in low-and-middle-income-country settings, multinational datasets and early federated learning infrastructure test. 
 
-Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview?view_only=928d14d083624213bf3c1da605a1d4ef) for our latest activities. 
+Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview?view_only=928d14d083624213bf3c1da605a1d4ef) for our latest output and activities. 
 
 **What's next:**  
 Development of interoperable data systems and multi site evaluation of AI diagnostics  
