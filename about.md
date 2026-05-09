@@ -7,7 +7,7 @@ permalink: /about/
 ## Democratising AI diagnostics for equitable cancer care
 <br>
 **The Application of AI‑defined Molecular Classifications in Ovarian Cancer (AAIMC-OC) is a global research platform aiming to develop and rigorously evaluate AI‑defined cancer diagnostics using federated learning.**
-<br>
+
 ## The challenge
 
 Targeted cancer treatments are transforming outcomes in ovarian cancer. However, many patients cannot access these therapies because the diagnostic tests required to guide treatment are costly, specialist, and unavailable in many parts of the world.
