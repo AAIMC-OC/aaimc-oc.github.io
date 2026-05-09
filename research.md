@@ -30,7 +30,5 @@ Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6
 - Development of interoperable data systems and multi site evaluation of AI diagnostics  
 - Currently our funding does not support gold-standard comparator molecular tests in low-and-middle-income countries. This will be important for local AI refinement essential for clinical validation.
 - Develop a scalable federated research ecosystem enabling equitable AI diagnostics to be compared and delivered across healthcare systems
-  
 <br>
-
 For further information about the AAIMC-OC Consortium or joining, please contact us at <a href="mailto:AAIMC_OC@contacts.bham.ac.uk">AAIMC_OC@contacts.bham.ac.uk</a>
