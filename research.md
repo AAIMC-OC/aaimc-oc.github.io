@@ -20,7 +20,7 @@ Established AI algorithms can determine Homologous Recombination Deficiency (HRD
 
 <br>
 
-## Our trajectory
+## Our work so far
 
 **Now:**  
 Established multinational datasets, international collaborations and early federated learning infrastructure  
@@ -33,4 +33,4 @@ Develop a scalable federated research ecosystem enabling equitable AI diagnostic
 
 <br>
 
-For further information about the AAIMC-OC Consortium or joining, please contact us at AAIMC_OC@contacts.bham.ac.uk
+For further information about the AAIMC-OC Consortium or joining, please contact us at <a href="mailto:AAIMC_OC@contacts.bham.ac.uk">AAIMC_OC@contacts.bham.ac.uk</a>
