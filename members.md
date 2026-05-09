@@ -8,9 +8,7 @@ AAIMC-OC is a clinician led international collaboration bringing together expert
 This membership list includes collaborators who have joined or agreed to support us over time. Founding teams are marked by an asterisk (*). 
 
 ## Leadership
-
 <div class="member-section">
-
 ### University of Birmingham\*
 
 **Expertise: Programme coordination, Domain knowledge, Image dataset**
