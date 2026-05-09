@@ -32,3 +32,8 @@ Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6
 - Develop a scalable federated research ecosystem enabling equitable AI diagnostics to be compared and delivered across healthcare systems
 <br>
 For further information about the AAIMC-OC Consortium or joining, please contact us at <a href="mailto:AAIMC_OC@contacts.bham.ac.uk">AAIMC_OC@contacts.bham.ac.uk</a>
+
+### Current research funding
+
+This work is currently funded by the US Department of Defense Congressionally Directed Medical Research Programmes (CDMRP) FY23 Ovarian Cancer Research Programme Award (OC230126).
+
