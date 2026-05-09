@@ -64,13 +64,13 @@ This membership list includes collaborators who have joined or agreed to support
 - **Prof. Charlie Gourley**, Professor of Medical Oncology  
 - **Mr Mike Churchman**, Laboratory Manager  
 
-### Kolkata Gynecological Oncology Trials and Translational Research Group (KolGO Trg, India)\*
+### Kolkata Gynecological Oncology Trials and Translational Research Group (KolGOTrg, India)\*
 
 **Expertise: LMIC gynaecological oncology, clinical trials**
 
 - **Prof. Asima Mukhopadhyay**, Professor of Gynaeoncology; Founder, KolGOTrg  
 
-### Kenyatta National Hospital, Nairobi/ Maseno University, Kisumu, Kenya\*
+### Kenyatta National Hospital, Nairobi/ Maseno University, Kisumu in Kenya\*
 
 **Expertise: Pathology, LMIC implementation**
 
