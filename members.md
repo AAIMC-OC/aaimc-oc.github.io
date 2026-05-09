@@ -13,7 +13,7 @@ This membership list includes collaborators who have joined or agreed to support
 
 ### University of Birmingham\*
 
-**Expertise: Programme coordination, Clinical domain knowledge and leadership, Image dataset**
+**Expertise: Programme coordination, Domain knowledge, Image dataset**
 
 - **Dr Elaine Leung**, Project Lead  
 
@@ -107,7 +107,7 @@ This membership list includes collaborators who have joined or agreed to support
 
 <div class="member-section">
 
-### OpenFlexure (University of Glasgow, University of Bath, The Humanitarian Technology Trust)
+### The OpenFlexure Project
 
 **Expertise: Low-cost imaging systems**
 
@@ -129,6 +129,15 @@ This membership list includes collaborators who have joined or agreed to support
   
 - **Dr Faiza Gaba**, GO-SOAR Consortium; Global Networks  
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics  
-- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya; LMIC Gynaecological Oncology 
+- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya; LMIC Gynaecological Oncology
+- **Dr Sidong Liu**, Macquarie University, Australia; Federated AI development in histopathology
+- **Dr Mary Kinloch**, University of Saskatchewan, Canada; Image dataset
+- **Prof. Martin Oehler**, University of Adelaide, Australia; Image dataset
+- **Prof. Estrid Høgdall and Dr. Lone Dupont**, University of Copenhagen, Denmark; Image dataset (external validation)
+- **Prof. Susan Ramus**, Ovarian Tumour Tissue Analysis Consortium; Image dataset (external validation)
+
+
+
+
 </div>
 
