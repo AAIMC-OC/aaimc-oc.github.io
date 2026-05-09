@@ -26,7 +26,7 @@ We have established international collaboration agreements and licenses to condu
 
 Please also see our [Open Science Framework (OSF) Project Page](https://osf.io/6bdta/overview?view_only=928d14d083624213bf3c1da605a1d4ef) for our latest output and activities. 
 
-**What's next:**  
+**What's next?**  
 - Development of interoperable data systems and multi site evaluation of AI diagnostics  
 - Currently our funding does not support gold-standard comparator molecular tests in low-and-middle-income countries. This will be important for local AI refinement essential for clinical validation.
 - Develop a scalable federated research ecosystem enabling equitable AI diagnostics to be compared and delivered across healthcare systems
