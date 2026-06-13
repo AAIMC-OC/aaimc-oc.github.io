@@ -54,7 +54,8 @@ This membership list includes collaborators who have joined and supported us ove
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager  
 - **Aashti Shauriq**, AAIMC-OC Technician
-- **Dr Thomas Mills**, Lecturer in chemical engineering
+- **Dr Thomas Mills**, Senior lecturer in chemical engineering
+- **Dr David Bassett**, Lecturer in healthcare technologies
 - **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space  
 
 ### University of Edinburgh\*
