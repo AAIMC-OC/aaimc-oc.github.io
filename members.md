@@ -4,9 +4,9 @@ title: Members
 permalink: /members/
 ---
 
-AAIMC‑OC is a clinician-led international collaborative consortium bringing together expertise in AI, clinical oncology, pathology, and data science. Our pilot started in 3 continents (Europe, Africa, and Asia) and now have collaborators in 5 continents (Europe, Africa, Asia, North America and Australia). 
+AAIMC‑OC is a clinician-led international collaborative consortium bringing together expertise in AI, clinical oncology, pathology, and data science. Our pilot started in 3 continents (Europe, Africa and Asia) and now have collaborators in 5 continents (Europe, Africa, Asia, North America and Australia). 
 
-This membership list includes collaborators who have joined and supported us over time. Founding teams are marked by an asterisk (*).
+This list includes collaborators who have joined and supported us over time. Founding teams of our initial study (funded by US DoD CDMRP FY23 OCRP; OC230126) are marked by an asterisk (*).
 
 ## Leadership
 
@@ -116,18 +116,19 @@ This membership list includes collaborators who have joined and supported us ove
 - **Prof. William Wadsworth**, Professor of Physics at the University of Bath 
 
 ## Wider Collaborators and Support
-
+- **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
 - **Prof. Geoff Hall**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
 - **Dr Tonui P. Kipkirui & Dr Peter Itsura**, Moi Teaching and Referral Hospital (MTRH); LMIC Gynaecological Oncology
 - **Dr Anisa Mburu**, Aga Khan Hospital Mombasa and SheFights Foundation, Kenya; LMIC Gynaecological Oncology
 - **Dr Afrin Shaffi**, the BRIDGE programme, Kenya; LMIC Gynaecological Oncology and mainstream genetic testing in ovarian cancer
-- **Dr Jean Kyula**, chair of digital health committee, Kenya Healthcare federation, Kenya 
-- **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
+- **Dr Jean Kyula**, digital health committee of Kenya Healthcare federation and Penda Health, Kenya
+- **Data Science Without Border programme**, African Population and Health Research Centre (APHRC), Kenya
 - **[Dr Mary Kinloch](https://medicine.usask.ca/profiles/pathology-and-laboratory-medicine/saskatoon/mary-kinloch.php)**, University of Saskatchewan, Canada; Image dataset
 - **[Prof. Estrid Høgdall & Dr Lone Dupont](https://researchprofiles.ku.dk/da/persons/estrid-vilma-solyom-h%C3%B8gdall/)**, University of Copenhagen, Denmark; Image dataset (external validation)
 - **Prof. Susan Ramus**, [Ovarian Tumour Tissue Analysis Consortium](https://ottaconsortium.org/); Image dataset (external validation)
 - **Prof. Lois Holloway**, Australian Cancer Data Network; Federated Learning at scale
-- **Dr Binay Shah & Dr Jin Mou**, Binaytara; Global health network
+- **Dr Hans Christian Stubbe**, LMU Klinikum München and LibellaLabs GmbH, Munich; Lightweight Clinical Application and Research System (LCARS)
+- **Dr Binay Shah & Dr Jin Mou**, Binaytara; Global health network and image datasets
 
