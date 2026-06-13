@@ -53,7 +53,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 **Expertise: Molecular diagnostics, pathology, biorepository, engineering, clinical AI Implementation**
 
 - **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor
-- **Prof. Alastair Denniston**, Executive Director of [Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI)](https://www.cersi-ai.org/); Clinical AI implementation and mentorship
+- **[Prof. Alastair Denniston](https://www.birmingham.ac.uk/staff/profiles/applied-health/denniston-alastair)**, Executive Director of [Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI)](https://www.cersi-ai.org/); Clinical AI implementation and mentorship
 - **[Prof. Chris Green](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher)**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager of the Beggs Lab  
