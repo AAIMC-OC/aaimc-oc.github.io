@@ -59,8 +59,8 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Laura Cole**, Programme Manager of the Beggs Lab  
 - **Aashti Shauriq**, AAIMC-OC Technician
 - **[Dr Thomas Mills](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/mills-tom)**, Senior lecturer in chemical engineering
-- **Dr David Bassett**, Lecturer in healthcare technologies
-- **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space
+- **[Dr David Bassett](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/bassett-david)**, Lecturer in healthcare technologies
+- **Mr Rhys Coldrick & Mr Maninder Dayal**, [Makers’ Space](https://www.birmingham.ac.uk/research/school-of-engineering-makerspace)
 - **Mr Gareth Bicknell**, [Human Biomaterials Resource Centre](https://www.birmingham.ac.uk/research/centres-institutes/human-biomaterials-resource-centre)
 
 
