@@ -52,7 +52,9 @@ This list includes collaborators who have joined and supported us over time. Fou
 
 **Expertise: Molecular diagnostics, pathology, biorepository, engineering, clinical AI Implementation**
 
-- **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor  
+- **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor
+- **Prof. Alastair Denniston**, Executive Director of [Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI)](https://www.cersi-ai.org/); Clinical AI implementation and mentorship
+- **[Prof. Chris Green](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher)**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
 - **Laura Cole**, Programme Manager of the Beggs Lab  
 - **Aashti Shauriq**, AAIMC-OC Technician
@@ -60,8 +62,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Dr David Bassett**, Lecturer in healthcare technologies
 - **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space
 - **Mr Gareth Bicknell**, [Human Biomaterials Resource Centre](https://www.birmingham.ac.uk/research/centres-institutes/human-biomaterials-resource-centre)
-- **Prof. Alastair Denniston**, Executive Director of [Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI)](https://www.cersi-ai.org/); Clinical AI implementation and mentorship
-- **[Prof. Chris Green](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher)**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
+
 
 ### University of Edinburgh\*
 
@@ -117,9 +118,10 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Prof. William Wadsworth**, Professor of Physics at the University of Bath 
 
 ## Wider Collaborators and Support
-- **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
-- **[Prof. Geoff Hall](https://www.data-can.org.uk/about-us/management-group/professor-geoff-hall/)**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science
+- **[Prof. Geoff Hall](https://www.data-can.org.uk/about-us/management-group/professor-geoff-hall/)**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science and mentorship
+- **[Prof. Anita Grigoriadis](https://www.kcl.ac.uk/people/anita-grigoriadis)**, [PharosAI](https://www.pharosai.co.uk/), London; Data science training
+- **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
 - **Dr Tonui P. Kipkirui & Dr Peter Itsura**, [Moi Teaching and Referral Hospital (MTRH)](https://igcs.org/training-site-in-kenya/); LMIC Gynaecological Oncology
 - **Dr Anisa Mburu**, Aga Khan Hospital Mombasa and [SheFights Foundation](https://jxf.hwd.mybluehost.me/), Kenya; LMIC Gynaecological Oncology
@@ -132,4 +134,3 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Prof. Lois Holloway**, [Australian Cancer Data Network](http://australian-cancer-data.network/), Sydney; Federated Learning at scale
 - **[Dr Hans Christian Stubbe](https://www.linkedin.com/in/hans-christian-stubbe/)**, [LMU Klinikum München](https://www.lmu.de/en/index.html) and [LibellaLabs GmbH](https://firmeneintrag.creditreform.de/81377/8171442457/LIBELLALABS_GMBH), Munich; [Lightweight Clinical Application and Research System (LCARS)](https://github.com/hcstubbe/lcars-m2)
 - **[Dr Binay Shah](https://binaytara.org/about/team/binay-shah-md) & [Dr Jin Mou](https://binaytara.org/about/team/jin-mou-md-ph-d)**, [Binaytara, Washington](https://binaytara.org/global-oncology); Global health network and image datasets
-- **[Prof. Anita Grigoriadis](https://www.kcl.ac.uk/people/anita-grigoriadis)**, [PharosAI](https://www.pharosai.co.uk/), London; Data science and mentorship 
