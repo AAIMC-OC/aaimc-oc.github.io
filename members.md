@@ -31,7 +31,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Marcus Rijken**, global women's health
 
 
-### [Clinical Data Science, University of Maastricht](https://www.clinicaldatascience.nl/) & [Medical Data Works](https://www.medicaldataworks.nl/), Netherlands\*
+### [Clinical Data Science, Maastricht University and Maastro Clinic](https://www.clinicaldatascience.nl/) & [Medical Data Works](https://www.medicaldataworks.nl/), Netherlands\*
 
 **Expertise: Clinical data science, federated learning**
 
