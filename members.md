@@ -119,7 +119,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 
 ## Wider Collaborators and Support
 - **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
-- **[Prof. Geoff Hall](https://www.data-can.org.uk/about-us/management-group/professor-geoff-hall/)**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science and mentorship
+- **[Prof. Geoff Hall](https://www.data-can.org.uk/about-us/management-group/professor-geoff-hall/)**, Director for [DATA-CAN](https://www.data-can.org.uk/), the UK’s Health Data Research Hub for Cancer; Data science and mentorship
 - **[Prof. Anita Grigoriadis](https://www.kcl.ac.uk/people/anita-grigoriadis)**, [PharosAI](https://www.pharosai.co.uk/), London; Data science training
 - **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
