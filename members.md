@@ -50,7 +50,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 
 ### University of Birmingham\*
 
-**Expertise: Molecular diagnostics, pathology, Engineering, Clinical AI Implementation**
+**Expertise: Molecular diagnostics, pathology, biorepository, engineering, clinical AI Implementation**
 
 - **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
@@ -59,6 +59,7 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **Dr Thomas Mills**, Senior lecturer in chemical engineering
 - **Dr David Bassett**, Lecturer in healthcare technologies
 - **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space
+- **Mr Gareth Bicknell**, Human Biomaterials Resource Centre
 - **Prof. Alastair Denniston**, Executive Director of Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI); Clinical AI implementation and mentorship
 - **Prof. Chris Green**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
 
@@ -128,7 +129,8 @@ This list includes collaborators who have joined and supported us over time. Fou
 - **[Dr Mary Kinloch](https://medicine.usask.ca/profiles/pathology-and-laboratory-medicine/saskatoon/mary-kinloch.php)**, University of Saskatchewan, Canada; Image dataset
 - **[Prof. Estrid Høgdall & Dr Lone Dupont](https://researchprofiles.ku.dk/da/persons/estrid-vilma-solyom-h%C3%B8gdall/)**, University of Copenhagen, Denmark; Image dataset (external validation)
 - **Prof. Susan Ramus**, [Ovarian Tumour Tissue Analysis Consortium](https://ottaconsortium.org/); Image dataset (external validation)
-- **Prof. Lois Holloway**, Australian Cancer Data Network; Federated Learning at scale
+- **Prof. Lois Holloway**, Australian Cancer Data Network, Sydney; Federated Learning at scale
 - **Dr Hans Christian Stubbe**, LMU Klinikum München and LibellaLabs GmbH, Munich; Lightweight Clinical Application and Research System (LCARS)
-- **Dr Binay Shah & Dr Jin Mou**, Binaytara; Global health network and image datasets
+- **Dr Binay Shah & Dr Jin Mou**, Binaytara, Washington; Global health network and image datasets
+- **Prof. Anita Grigoriadis**, PharosAI, London; Data science and mentorship 
 
