@@ -21,12 +21,14 @@ This membership list includes collaborators who have joined and supported us ove
 
 ### [AI for Oncology](https://aiforoncology.nl/), Netherlands Cancer Institute\*
 
-**Expertise: AI for oncology, model development, image datasets**
+**Expertise: AI for oncology, model development, image datasets, pathology and global women's health**
 
 - **Dr Hugo Horlings**, AI for Oncology Lead  
 - **Dr Jonas Teuwen**, AI for Oncology Lead  
 - **Sara P. Oliveira**, Postdoctoral Researcher for AAIMC-OC  
 - **Ajey Pai Karkala**, PhD Candidate, AI for Oncology
+- **Alicia Leon**, gynaecological pathology
+- **Marcus Rijken**, global women's health
 
 
 ### [Clinical Data Science, University of Maastricht](https://www.clinicaldatascience.nl/) & [Medical Data Works](https://www.medicaldataworks.nl/), Netherlands\*
@@ -48,7 +50,7 @@ This membership list includes collaborators who have joined and supported us ove
 
 ### University of Birmingham\*
 
-**Expertise: Molecular diagnostics, pathology, Engineering**
+**Expertise: Molecular diagnostics, pathology, Engineering, Clinical AI Implementation**
 
 - **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
@@ -56,7 +58,9 @@ This membership list includes collaborators who have joined and supported us ove
 - **Aashti Shauriq**, AAIMC-OC Technician
 - **Dr Thomas Mills**, Senior lecturer in chemical engineering
 - **Dr David Bassett**, Lecturer in healthcare technologies
-- **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space  
+- **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space
+- **Prof. Alastair Denniston**, Executive Director of Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI); Clinical AI implementation and mentorship
+- **Prof. Chris Green**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
 
 ### University of Edinburgh\*
 
@@ -75,10 +79,10 @@ This membership list includes collaborators who have joined and supported us ove
 
 **Expertise: Pathology, LMIC implementation, image datasets**
 
-- **Dr Mary Mungania**, Consultant Pathologist, KNH  
 - **Dr Job Mwale**, Consultant Pathologist, KNH
+- **Dr Mary Mungania**, Consultant Pathologist, KNH
+- **Prof. Rose Kosgei**, Consultant Pathologist, KNH
 - **Dr Edwin Walong**, Senior Lecturer and Consultant Pathologist, Maseno University    
-
 
 ### University of Basel\*
 
@@ -86,13 +90,11 @@ This membership list includes collaborators who have joined and supported us ove
 
 - **[Prof. Viktor Koelzer](https://health.dsi.uzh.ch/member/viktor-hendrik-koelzer/)**, Professor of Digital Pathology; Lead, Swiss Tumor Profiler Initiative 
 
-
 ### Leiden University Medical Center\*
 
 **Expertise: Digital pathology, image datasets**
 
 - **Prof. Tjalling Bosse**, Professor of Digital Pathology (Lead, [AIRMEC Project](https://airmec.ai/))
-
 
 ### University of Manchester\*
 
@@ -116,11 +118,16 @@ This membership list includes collaborators who have joined and supported us ove
 ## Wider Collaborators and Support
 
 - **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
+- **Prof. Geoff Hall**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
-- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa, Kenya; LMIC Gynaecological Oncology
+- **Dr Tonui P. Kipkirui & Dr Peter Itsura**, Moi Teaching and Referral Hospital (MTRH); LMIC Gynaecological Oncology
+- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa and SheFights Foundation, Kenya; LMIC Gynaecological Oncology
+- **Dr Afrin Shaffi**, the BRIDGE programme, Kenya; LMIC Gynaecological Oncology and mainstream genetic testing in ovarian cancer
+- **Dr Jean Kyula**, chair of digital health committee, Kenya Healthcare federation, Kenya 
 - **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **[Dr Mary Kinloch](https://medicine.usask.ca/profiles/pathology-and-laboratory-medicine/saskatoon/mary-kinloch.php)**, University of Saskatchewan, Canada; Image dataset
-- **[Prof. Martin Oehler](https://adelaide.edu.au/people/martin.oehler)**, University of Adelaide, Australia; Image dataset
 - **[Prof. Estrid Høgdall & Dr Lone Dupont](https://researchprofiles.ku.dk/da/persons/estrid-vilma-solyom-h%C3%B8gdall/)**, University of Copenhagen, Denmark; Image dataset (external validation)
 - **Prof. Susan Ramus**, [Ovarian Tumour Tissue Analysis Consortium](https://ottaconsortium.org/); Image dataset (external validation)
+- **Prof. Lois Holloway**, Australian Cancer Data Network; Federated Learning at scale
+- **Dr Binay Shah & Dr Jin Mou**, Binaytara; Global health network
 
