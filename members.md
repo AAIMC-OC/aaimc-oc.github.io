@@ -54,14 +54,14 @@ This list includes collaborators who have joined and supported us over time. Fou
 
 - **[Prof. Andrew Beggs](https://www.beggslab.net/)**, Academic Mentor  
 - **Raji Ganesan**, Professor of Gynaeoncological Pathology  
-- **Laura Cole**, Programme Manager  
+- **Laura Cole**, Programme Manager of the Beggs Lab  
 - **Aashti Shauriq**, AAIMC-OC Technician
-- **Dr Thomas Mills**, Senior lecturer in chemical engineering
+- **[Dr Thomas Mills](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/mills-tom)**, Senior lecturer in chemical engineering
 - **Dr David Bassett**, Lecturer in healthcare technologies
 - **Mr Rhys Coldrick & Mr Maninder Dayal**, Makers’ Space
-- **Mr Gareth Bicknell**, Human Biomaterials Resource Centre
-- **Prof. Alastair Denniston**, Executive Director of Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI); Clinical AI implementation and mentorship
-- **Prof. Chris Green**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
+- **Mr Gareth Bicknell**, [Human Biomaterials Resource Centre](https://www.birmingham.ac.uk/research/centres-institutes/human-biomaterials-resource-centre)
+- **Prof. Alastair Denniston**, Executive Director of [Centre of Excellence for Regulatory Science and Innovation in AI and Digital Health (CERSI-AI)](https://www.cersi-ai.org/); Clinical AI implementation and mentorship
+- **[Prof. Chris Green](https://www.birmingham.ac.uk/staff/profiles/chemical-engineering/green-christopher)**, Clinical Professor & Consultant Physician in Infectious Diseases; LMIC innovation development and mentorship 
 
 ### University of Edinburgh\*
 
@@ -119,18 +119,17 @@ This list includes collaborators who have joined and supported us over time. Fou
 ## Wider Collaborators and Support
 - **[Dr Sidong Liu](https://researchers.mq.edu.au/en/persons/sidong-liu/)**, Macquarie University, Australia; Federated AI development in histopathology
 - **Dr Faiza Gaba**, [GO-SOAR Consortium](https://www.gosoar.co.uk/); Global Networks
-- **Prof. Geoff Hall**, Director for DATA-CAN, the UK’s Health Data Research Hub for Cancer; Data science
+- **[Prof. Geoff Hall**, Director for DATA-CAN](https://www.data-can.org.uk/about-us/management-group/professor-geoff-hall/), the UK’s Health Data Research Hub for Cancer; Data science
 - **Dr Allan Njau & Dr Jonathan Wawire**, Aga Khan University, Kenya; Molecular diagnostics
-- **Dr Tonui P. Kipkirui & Dr Peter Itsura**, Moi Teaching and Referral Hospital (MTRH); LMIC Gynaecological Oncology
-- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa and SheFights Foundation, Kenya; LMIC Gynaecological Oncology
+- **Dr Tonui P. Kipkirui & Dr Peter Itsura**, [Moi Teaching and Referral Hospital (MTRH)](https://igcs.org/training-site-in-kenya/); LMIC Gynaecological Oncology
+- **Dr Anisa Mburu**, Aga Khan Hospital Mombasa and [SheFights Foundation](https://jxf.hwd.mybluehost.me/), Kenya; LMIC Gynaecological Oncology
 - **Dr Afrin Shaffi**, the BRIDGE programme, Kenya; LMIC Gynaecological Oncology and mainstream genetic testing in ovarian cancer
-- **Dr Jean Kyula**, digital health committee of Kenya Healthcare federation and Penda Health, Kenya
-- **Data Science Without Border programme**, African Population and Health Research Centre (APHRC), Kenya
+- **Dr Jean Kyula**, digital health committee of [Kenya Healthcare federation](https://khf.co.ke/) and [Penda Health](https://www.pendahealth.com/ai-enabled-care), Kenya
+- **[Data Science Without Border programme](https://dswb.africa/)**, [African Population and Health Research Centre (APHRC)](https://aphrc.org/), Kenya
 - **[Dr Mary Kinloch](https://medicine.usask.ca/profiles/pathology-and-laboratory-medicine/saskatoon/mary-kinloch.php)**, University of Saskatchewan, Canada; Image dataset
 - **[Prof. Estrid Høgdall & Dr Lone Dupont](https://researchprofiles.ku.dk/da/persons/estrid-vilma-solyom-h%C3%B8gdall/)**, University of Copenhagen, Denmark; Image dataset (external validation)
 - **Prof. Susan Ramus**, [Ovarian Tumour Tissue Analysis Consortium](https://ottaconsortium.org/); Image dataset (external validation)
-- **Prof. Lois Holloway**, Australian Cancer Data Network, Sydney; Federated Learning at scale
-- **Dr Hans Christian Stubbe**, LMU Klinikum München and LibellaLabs GmbH, Munich; Lightweight Clinical Application and Research System (LCARS)
-- **Dr Binay Shah & Dr Jin Mou**, Binaytara, Washington; Global health network and image datasets
-- **Prof. Anita Grigoriadis**, PharosAI, London; Data science and mentorship 
-
+- **Prof. Lois Holloway**, [Australian Cancer Data Network](http://australian-cancer-data.network/), Sydney; Federated Learning at scale
+- **[Dr Hans Christian Stubbe](https://www.linkedin.com/in/hans-christian-stubbe/)**, [LMU Klinikum München](https://www.lmu.de/en/index.html) and [LibellaLabs GmbH](https://firmeneintrag.creditreform.de/81377/8171442457/LIBELLALABS_GMBH), Munich; [Lightweight Clinical Application and Research System (LCARS)](https://github.com/hcstubbe/lcars-m2)
+- **[Dr Binay Shah](https://binaytara.org/about/team/binay-shah-md) & [Dr Jin Mou](https://binaytara.org/about/team/jin-mou-md-ph-d)**, [Binaytara, Washington](https://binaytara.org/global-oncology); Global health network and image datasets
+- **[Prof. Anita Grigoriadis](https://www.kcl.ac.uk/people/anita-grigoriadis)**, [PharosAI](https://www.pharosai.co.uk/), London; Data science and mentorship 
